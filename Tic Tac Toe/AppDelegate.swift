@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tic Tac Toe
 //
-//  Created by 洪崧傑 on 2023/1/30.
+//  Created by Sung-Jie Hung on 2023/1/30.
 //
 
 import UIKit

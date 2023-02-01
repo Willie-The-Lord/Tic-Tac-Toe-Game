@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Tic Tac Toe
 //
-//  Created by 洪崧傑 on 2023/1/30.
+//  Created by Sung-Jie Hung on 2023/1/30.
 //
 
 import UIKit
@@ -10,7 +10,6 @@ import UIKit
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
-
 
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
